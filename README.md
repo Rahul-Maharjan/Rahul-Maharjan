@@ -74,7 +74,17 @@
 - MySQL database
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rahul-Maharjan&show_icons=true&theme=github_dark" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahul-Maharjan&layout=compact&theme=github_dark" />
+
+</p>
+
+---
 ## 🔥 Contribution
 
 <p align="center">
